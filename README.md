@@ -1,65 +1,39 @@
-# Breaking-Barriers-in-AI-for-Materials-and-Molecules
-
-The tools, instructions and insights for the project will be collected here.
-
-If using GitHub: Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.
-
-Vision and Mission
-
-●	Vision: Expertise, tutorials and knowledge for using AI for Materials and Molecules that is compatible with DRAC infrastructure
-●	Mission: Our mission is to develop user-friendly tools, comprehensive tutorials, and detailed documentation to empower researchers and industry professionals in using AI for accelerated materials discovery and molecular design. The materials are especially targeted for Canadians
-
-About
-
-In the USA and Europe, AI-driven materials discovery has seen rapid development, but much of the expertise in this field is heavily concentrated within select institutions and research hubs. This centralization limits broader participation and stifles innovation by creating barriers for new researchers and regions. While Canada has the potential to play a larger role, its progress is hindered by the lack of accessible resources and cohesive networks. This project aims to address these challenges by developing open tools, tutorials, and documentation to democratize AI applications in materials research, enabling more widespread contributions across Canada and beyond.
-
-Roadmap & Milestones
-Goals
-•	Overarching Goal: Bridge the knowledge gap in AI for materials and molecular research across Canada by improving access to digital research infrastructure (DRI) and knowledge, especially for underrepresented groups such as women scientists and researchers in remote areas.
-•	Short-term Goals:
-1.	Conduct surveys and focus groups to identify challenges faced by remote institutions and women in science regarding DRI access and AI tools.
-2.	Host a series of webinars, co-led by a paid research expert, to train participants on AI and machine learning for materials research.
-3.	Develop a communication platform (e.g., Microsoft Teams or Slack) to connect geographically-isolated researchers and facilitate ongoing collaboration.
-4.	Publish bilingual webinar recordings on YouTube with accessible documentation on GitHub to ensure lasting access to the resources.
-Outcomes:
-1.	Needs Assessment Reports: Surveys and focus groups will provide insights into the barriers faced by remote researchers and women scientists in using AI tools and DRI.
-2.	Webinar Deliverables: A four-part webinar series on key AI topics, including:
-o	Preparing datasets for models
-o	Predicting structural features
-o	Generating candidate structures
-o	Dataset verification and correction
-o	Machine learning accelerated optimization
-o	Setting up automated workflows for storage, scheduling, and sharing
-3.	Knowledge Dissemination Tools:
-o	Webinar recordings posted on YouTube with bilingual captions
-o	Documentation, code, and software resources shared on GitHub
-4.	Community Building:
-o	Establish an online communication channel to connect researchers
-o	Increase engagement and knowledge sharing across Canada
-●	
-
-The Team
-
-●	Members: Ameer, Mehdi
-●	Roles & Responsibilities: TO BE FILLED
-
-Contributing
-
-●	Guidelines: [Contribution Guidelines](link-to-guidelines) for contributors.
-●	Code of Conduct: [Code of Conduct](link-to-coc) ensures a respectful project environment.
-●	Resource Plans: Details on available resources and recommended practices for the project team.
-
-Licensing
-This repo is licensed under the GNU General Public License v3.0
-
-Citing & Acknowledgement
-
-●	Citation Instructions: How to cite the project.
-●	Acknowledgement: Thanks to support from OLS
-
-Contact
-
-●	Reach Out: Ameer (a_nizami@live.concordia.ca)
-
-Last updated 13 October 2024
-
+AI for Materials and Molecules
+👋 Welcome!
+Hello and welcome to the AI for Materials and Molecules project! This initiative aims to bridge the gap between artificial intelligence and materials science, empowering researchers with tools, knowledge, and resources to drive innovation in material discovery. Whether you're an AI enthusiast, a materials scientist, or someone simply curious about this exciting intersection, you're in the right place!
+📝 Project Overview
+The AI for Materials and Molecules project focuses on developing tools, tutorials, and documentation to make AI and machine learning accessible for materials research. In Canada, expertise in this field is concentrated in hub cities like Montreal and Toronto, leaving many researchers without adequate mentorship or resources.
+Our project addresses this knowledge gap by:
+•	Hosting educational webinars on practical AI/ML applications for materials research.
+•	Creating open-access resources, including video tutorials and GitHub documentation.
+•	Establishing online communities to foster collaboration and knowledge-sharing.
+•	Conducting surveys and focus groups to understand and address unique challenges faced by underrepresented groups in this field.
+We believe that by democratizing access to AI tools and knowledge, we can accelerate discoveries in materials science and create a more inclusive research ecosystem.
+🚀 What Makes This Project Special?
+•	Practical Education: Step-by-step tutorials and webinars tailored to real-world materials research challenges.
+•	Montreal-Based: The founders and collborators are based in Montreal, Quebec, Canada
+•	Open Access: All resources, including webinars and documentation, are freely available.
+•	Community-Driven: Building an active online network of researchers to exchange ideas and collaborate.
+🛠️ How to Get Started
+Interested in getting involved? Here are some ways you can contribute or benefit from the project:
+1.	Join Our Webinars: Keep an eye out for our upcoming sessions on AI and ML for materials.
+2.	Explore Our Resources: Check out the tutorials and tools available in this repository.
+3.	Collaborate: Share your expertise, propose improvements, or suggest new topics for our content.
+4.	Stay Updated: Follow us on our YouTube channel, LinkedIn Page and MS Teams group to join our online community.
+🤝 How You Can Help
+We’re always looking for contributors and collaborators. Here’s what we currently need:
+•	Workshop Ideas: If there is a workshop demonstration you would like to see, suggest it to us and we can look into organizing it.
+•	Experts in AI/ML: To co-host webinars and provide mentorship.
+•	Content Creators: Help us create tutorials and documentation.
+•	Community Builders: Assist in moderating and growing our online platforms.
+If you're interested, feel free to reach out via GitHub Issues or drop me an email.
+📚 Resources
+•	YouTube Channel
+•	GitHub Documentation
+•	Community Platform (Teams)
+📢 Stay Connected
+•	Follow updates on our YouTube Channel.
+•	Join our online Community Platform.
+•	Reach out via GitHub Issues for questions or contributions.
+Thank you for being part of this journey. Together, let's break barriers and drive innovation in materials and AI research!
+Breaking Barriers in AI for Materials and Molecules is supported in part by funding from the Digital Research Alliance of Canada.
