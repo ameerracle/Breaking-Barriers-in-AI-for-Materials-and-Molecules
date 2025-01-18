@@ -61,7 +61,7 @@ If you're interested, feel free to reach out via **GitHub Issues** or drop us an
 
 - 🎥 [**YouTube Channel**](#)  
 - 📖 [**GitHub Documentation**](#)  
-- 🌐 [**Community Platform (Teams)**](#)  
+- 🌐 [**Community Platform (Teams)**](https://teams.microsoft.com/l/team/19%3ALAUUbmPCJgw2RdiqtAoxmNucTZ2yGyna842JsoFv1o01%40thread.tacv2/conversations?groupId=71c9537d-a99b-41cb-9f01-c0a84129ce92&tenantId=5569f185-d22f-4e13-9850-ce5b1abcd2e8)  
 
 ---
 
