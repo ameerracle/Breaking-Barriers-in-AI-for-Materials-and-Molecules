@@ -18,7 +18,9 @@ Our project addresses this knowledge gap by:
 - 📚 **Hosting educational webinars** on practical AI/ML applications for materials research.  
 - 🎥 **Creating open-access resources**, including video tutorials and GitHub documentation.  
 - 🌐 **Establishing online communities** to foster collaboration and knowledge-sharing.  
-- 🗳️ **Conducting surveys and focus groups** to understand and address unique challenges faced by underrepresented groups in this field.  
+- 🗳️ **Conducting surveys and focus groups** to understand and address unique challenges faced by underrepresented groups in this field.
+  - [English Survey Link](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=hfFpVS_SE06YUM5bGrzS6JetBcOMtuVOrt6I_XDGJt1UM0RQQkRSWkRGNktLUkI1QjA3V1FCVDI5Ui4u&analysis=false)
+  - [French Survey Link](https://forms.office.com/Pages/DesignPageV2.aspx?prevorigin=shell&origin=NeoPortalPage&subpage=design&id=hfFpVS_SE06YUM5bGrzS6JetBcOMtuVOrt6I_XDGJt1UM0RQQkRSWkRGNktLUkI1QjA3V1FCVDI5Ui4u&analysis=false)
 
 We believe that by **democratizing access to AI tools and knowledge**, we can **accelerate discoveries** in materials science and **create a more inclusive research ecosystem**.  
 
